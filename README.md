@@ -1,4 +1,7 @@
-##Hi there 👋
+### HOLA 
+#### Soy una estudiante de universidad politecnica de aguascalientes **UPA**, cursando la carrera en ingeneria en tecnologias de la informacion e innovacion digital  
+![logo](https://th.bing.com/th/id/R.08d55169f99e9b63c6aeb26f55e16076?rik=Dwmlgb6r14kjcA&riu=http%3a%2f%2funiversidadesdemexico.mx%2flogos%2foriginal%2flogo-universidad-politecnica-de-aguascalientes.webp&ehk=DHAr1FLTSYxmubLrXtzKBsVfrpJbnf%2fZIZvcPZgOEN4%3d&risl=&pid=ImgRaw&r=0)
+#### apenas iniciare mi portafolio en github 
 
 <!--
 **up251060zpm/up251060zpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
